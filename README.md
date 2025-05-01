@@ -1,0 +1,2 @@
+In this project, I scraped data from the 2020–2021 and 2021–2022 English Premier League (EPL) seasons. The dataset included features such as match scores, home and away teams, and other relevant match information. 
+I added features including rolling averages and trained a machine learning model using a RandomForestClassifier. The model achieved an accuracy of 67.5%, evaluated using accuracy_score.
